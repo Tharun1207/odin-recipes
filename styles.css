@@ -7,15 +7,28 @@
     background-color: yellow;
     font-size: 60px;
     text-align: center;
+    border-radius: 5px;
+}
+
+.links-container {
+    background-color: lightpink;
+    padding: 0 0 5px 0;
+    border-radius: 5px;
 }
 
 .links-title {
     text-decoration: underline;
+    text-align: center;
     font-size: 30px;
 }
 
 .links {
     font-size: 20px;
+}
+
+li {
+    padding-bottom: 5px;
+    margin-left: 0;
 }
 
 /* Specific recipe pages */
